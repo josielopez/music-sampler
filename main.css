@@ -1,0 +1,56 @@
+* {
+  box-sizing: inherit;
+}
+body {
+  font-family: 'Verdana', sans-serif;
+  color: #333;
+  background: #fff9ef;
+  margin: 0;
+  font-size: 1rem;
+}
+h1 {
+  font-family: 'Georgia', serif;
+  font-weight: normal;
+  line-height: normal;
+  margin: 0;
+  font-size: 3rem;
+  color: #998463;
+  margin-bottom: 2rem;
+}
+
+h2 {
+  font-family: 'Georgia', serif;
+  font-weight: normal;
+  line-height: normal;
+  margin: 0;
+  font-size: 2rem;
+  color: #998463;
+  margin-bottom: .5rem;
+}
+
+.caption {
+  font-family: 'Georgia', serif;
+  font-size: .8rem;
+}
+
+.songtitle {
+  padding: .5rem;
+  font-size: .9rem;
+}
+
+section {
+  margin-top: 3rem;
+  margin-bottom: 3rem;
+}
+
+.container {
+  max-width: 90%;
+  height: 500px;
+  margin: 1rem auto;
+  padding: 2rem 3rem;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+}
