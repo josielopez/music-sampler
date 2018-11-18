@@ -7,6 +7,7 @@ body {
   background: #fff9ef;
   margin: 0;
   font-size: 1rem;
+  max-width: inherit;
 }
 h1 {
   font-family: 'Georgia', serif;
@@ -14,8 +15,8 @@ h1 {
   line-height: normal;
   margin: 0;
   font-size: 3rem;
-  color: #998463;
-  margin-bottom: 2rem;
+  color: #990000;
+  margin-bottom: 1rem;
 }
 
 h2 {
